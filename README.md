@@ -27,4 +27,4 @@ print("{:.2f}".format(value))
 ### OUTPUT:
 ![image](./output.png)
 ### RESULT:
-The python program to find the distance two 2 points is successfully executed
+The python program to find the distance two 2 points is successfully executed.
