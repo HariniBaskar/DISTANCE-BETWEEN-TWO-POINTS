@@ -25,6 +25,6 @@ value=math.sqrt(((x[0]-x[1])**2+(y[0]-y[1])**2))
 print("{:.2f}".format(value))
 ```
 ### OUTPUT:
-![image](./output.png)
+![image](./output.PNG)
 ### RESULT:
-The python program to find the distance two 2 points is successfully executed
+The python program to find the distance two 2 points is successfully executed.
