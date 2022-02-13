@@ -8,7 +8,8 @@ To write a python program to find the distance two 2 points
 ## Step 2: 
 ### Get the values of first and second coordinators 
 ## Step 3: 
-#### Substitute the values in the distance formula using square root function   ![formula](/formula.jpg)
+#### Substitute the values in the distance formula using square root function ![formula](https://user-images.githubusercontent.com/93427253/153758858-1e1042cf-134c-4fbe-9624-7e2f6d4e610a.JPG)
+
 ## Step 4: 
 ### Print the value got for the distance between two points using format function
 ## Step 5:
